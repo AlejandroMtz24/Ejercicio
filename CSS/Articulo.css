@@ -80,17 +80,17 @@
   padding-bottom: 5px;
   font-family: 'Bangers', cursive;
 }
-#contenedor1 h1 {
+#contenedor1 button {
+  display: inline;
+  font-family: 'Bangers', cursive;
+}
+h1 {
   background-color: blue;
   font-family: 'Comic Sans MS', cursive, sans-serif;
   padding: 10px;
   border: 10px solid red;
   margin: 30px;
   text-align: center;
-}
-#contenedor1 button {
-  display: inline;
-  font-family: 'Bangers', cursive;
 }
 #contenedor2 {
   text-align: justify;
